@@ -245,7 +245,8 @@ EXPO_PUBLIC_GOOGLE_API_KEY=your_gemini_api_key
 
 **Avalya** - Full Stack Developer
 
-GitHub: [github.com/Avalya/meal.mind](https://github.com/Avalya/meal.mind)
+GitHub: [github.com/Avalya/meal.mind](https://github.com/kubatbekkyzydinara-hue/meal.mind)
+
 
 ---
 
