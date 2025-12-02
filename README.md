@@ -6,27 +6,23 @@
 
 ---
 
+## Быстрый доступ
+
+### Веб-версия (работает мгновенно)
+
+Отсканируйте QR-код камерой телефона:
+
+![MealMind Web](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev)
+
+**Ссылка:** https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev
+
+### Мобильное приложение (Expo Go)
+
+1. Установите Expo Go: [iOS](https://apps.apple.com/app/expo-go/id982107779) | [Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
+2. Откройте [Replit проект](https://replit.com/@Avalya/MealMind) → Run
+3. Сканируйте QR в консоли
+
 ---
-
-## Мгновенный доступ для жюри
-
-### Вариант 1: Веб-версия (без установки)
-
-Отсканируйте QR или откройте ссылку:
-
-![Web QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev)
-
-**Ссылка:** [Открыть MealMind](https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev)
-
----
-
-### Вариант 2: Мобильное приложение (полный опыт)
-
-**Шаг 1:** Установите Expo Go
-
-| iOS | Android |
-|:---:|:-------:|
-| [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/expo-go/id982107779) | [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=host.exp.exponent) |
 
 **Шаг 2:** Откройте [Replit проект](https://replit.com/@Avalya/MealMind) → Run → Сканируйте QR в консоли
 
