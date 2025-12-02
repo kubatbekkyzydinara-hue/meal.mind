@@ -214,7 +214,7 @@ npm install
 npm run dev
 
 # Приложение доступно:
-# - Web:[ http://localhost:8081](https://event-track-invoice--kubatbekkyzydi1.replit.app)
+# - http://localhost:8081](https://event-track-invoice--kubatbekkyzydi1.replit.app
 # - Expo Go: отсканируйте QR-код
 ```
 
