@@ -214,7 +214,7 @@ npm install
 npm run dev
 
 # Приложение доступно:
-# - http://localhost:8081](https://event-track-invoice--kubatbekkyzydi1.replit.app
+# - https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev/
 # - Expo Go: отсканируйте QR-код
 ```
 
