@@ -116,7 +116,7 @@
 
 2. Нажмите "Сканировать холодильник"
    → Загрузите фото (или сделайте снимок)
-![Демо продукты](assets/demo-fridge.jpg)
+     Демо продукты: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPpn6gancHJ4mrxSBdZAFk2USu_l3Xtthp9v1KfzCImIePbuTY
    → AI распознает продукты (РЕАЛЬНО работает!)
 
 3. Сохраните в запасы
