@@ -123,7 +123,7 @@ MealMind/
 ## 5.9. Контакты
 
 - **Email:** [kubatbekkyzydinara165@gmail.com]
-- **GitHub:** [ссылка на репозиторий]
+- **GitHub:** [ github.com/Avalya/meal.mind]
 - **Демо:** https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev
 
 ---
