@@ -23,7 +23,7 @@
 
 ![MealMind Expo Go](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=exp://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev)
 
-**Deep link:** `exp://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev`
+**Deep link:** `https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev`
 
 ---
 
