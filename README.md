@@ -5,6 +5,7 @@
 **AI Generative Hackathon 2025 | Бишкек, Кыргызстан**
 
 ---
+---
 
 ## Быстрый доступ
 
@@ -16,37 +17,15 @@
 
 **Ссылка:** https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev
 
-### Мобильное приложение (Expo Go)
+### Expo Go (нативное приложение)
 
-1. Установите Expo Go: [iOS](https://apps.apple.com/app/expo-go/id982107779) | [Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
-2. Откройте [Replit проект](https://replit.com/@Avalya/MealMind) → Run
-3. Сканируйте QR в консоли
+Установите [Expo Go](https://expo.dev/go) и отсканируйте:
 
----
+![MealMind Expo Go](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=exp://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev)
 
-**Шаг 2:** Откройте [Replit проект](https://replit.com/@Avalya/MealMind) → Run → Сканируйте QR в консоли
+**Deep link:** `exp://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev`
 
 ---
-
-**Веб-версия (работает сразу):**
-
-### Шаг 1: Установите Expo Go
-
-| iOS | Android |
-|-----|---------|
-| [![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/expo-go/id982107779) | [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=host.exp.exponent) |
-
-### Шаг 2: Откройте приложение
-
-**На iOS:**
-1. Откройте приложение Камера
-2. Наведите на QR-код в Replit
-3. Нажмите на уведомление
-
-**На Android:**
-1. Откройте Expo Go
-2. Нажмите "Scan QR Code"
-3. Наведите на QR-код в Replit
 
 ### Шаг 3: Готово
 
