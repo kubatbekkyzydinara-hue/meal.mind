@@ -26,10 +26,7 @@ https://62edf390-57aa-495b-b9f1-c2f238f21287-00-2lw9vcctuh2x1.kirk.replit.dev
 ### Демо-фото для тестирования AI
 Если хотите протестировать AI-распознавание без своих фото, используйте встроенную кнопку "Демо" или скачайте это изображение:
 
-**[Скачать демо-фото продуктов](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPpn6gancHJ4mrxSBdZAFk2USu_l3Xtthp9v1KfzCImIePbuTY)
-Скачать демо-фото 1 (Разнообразные продукты)
-Скачать демо-фото 2 (Здоровый холодильник)
-Скачать демо-фото 3 (Полный холодильник)**
+**[Скачать демо-фото продуктов](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPpn6gancHJ4mrxSBdZAFk2USu_l3Xtthp9v1KfzCImIePbuTY)**
 
 ---
 
